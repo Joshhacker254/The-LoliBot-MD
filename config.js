@@ -10,17 +10,13 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 
 ///⊱ ━━━━━.⋅ Añada los numeros a ser Propietario ⋅.━━━━ ⊰  
 global.owner = [
-  ['5492266466080', '𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿', true],
-  ['573183650526', '𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿', true],
-  ['593968585383'],
-  ['5492266613038'],
-  ['5214531173598'],
-  ['59894808483']
+  ['254735847430', 'joshhacker-𝙈𝘿', true],
+  ['254735847430', 'josh-𝙈𝘿', true]
 ]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
-global.mods = ['50495745934'] 
-global.prems = ['595986172767', '972529277314'],  
+global.mods = ['254735847430'] 
+global.prems = ['254735847430'],  
    
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
@@ -29,7 +25,7 @@ global.prems = ['595986172767', '972529277314'],
 //  en = English         pt = Português 
 //  ar = عرب  
 
-global.lenguajeGB = es  //Idioma de The-LoliBot-MD, Ejemplo: es | en | pt...
+global.lenguajeGB = en  //Idioma de The-LoliBot-MD, Ejemplo: es | en | pt...
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
